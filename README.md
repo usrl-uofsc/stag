@@ -1,3 +1,5 @@
+**_This repo is depracated! Please go to https://github.com/usrl-uofsc/stag_ros for the updated one_**
+
 # STag: A Stable Fiducial Marker System
 
 Code used in the following paper:
